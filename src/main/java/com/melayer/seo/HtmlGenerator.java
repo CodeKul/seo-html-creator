@@ -35,7 +35,10 @@ public class HtmlGenerator {
                 .text("Title: ").text(article.getName())
                 .br()
                 .text("Description: ").text(article.getDescription())
-                .br();
+                .br()
+                .hr()
+                .text("<a class='btn btn-primary' href='http://botsupp.com'>More</a>");
+
 
         return taskView;
     }
