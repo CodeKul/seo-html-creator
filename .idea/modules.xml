@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html-view.iml" filepath="$PROJECT_DIR$/.idea/modules/html-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html-view_main.iml" filepath="$PROJECT_DIR$/.idea/modules/html-view_main.iml" group="html-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html-view_test.iml" filepath="$PROJECT_DIR$/.idea/modules/html-view_test.iml" group="html-view" />
+    </modules>
+  </component>
+</project>
